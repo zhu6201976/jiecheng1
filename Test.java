@@ -1,7 +1,7 @@
-
+ï»¿
 import java.util.Scanner;
 /**
-¼ÆËã10!µÄ½×³Ë
+è®¡ç®—10çš„é˜¶ä¹˜
 */
 public class Test{
 	public static void main(String[] args){
@@ -12,7 +12,7 @@ public class Test{
 			jc *= i;	
 		}
 		
-		System.out.println("10µÄ½×³ËÎª£º"+jc);
+		System.out.println("10çš„é˜¶ä¹˜ä¸ºï¼š"+jc);
 		
 	}
 }
